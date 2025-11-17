@@ -1,4 +1,4 @@
-# 🚗 Gestión de Inventario de Autos y Ventas API
+# 🚗 Gestión de Inventario de Autos y Ventas API / Maxima Caceres
 
 API RESTful construida con **FastAPI** y **SQLModel** para la gestión de un inventario de vehículos y el seguimiento de sus ventas. Utiliza **PostgreSQL** como base de datos relacional.
 
